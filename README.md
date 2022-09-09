@@ -1,2 +1,4 @@
-# Agginments
+# Assignments
+
 Julia Assignment
+
